@@ -1,1 +1,1 @@
-# CSS-minor-project
+# Side-Menu bar for Photoshop website
